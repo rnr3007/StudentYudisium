@@ -1,0 +1,57 @@
+.centerParagraph {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.justifyParagraph {
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+}
+
+.headingText {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 48px;
+}
+
+.subHeadingText {
+    padding-top: 20px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.titleText {
+    font-size: 24px;
+    font-style: italic;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.mediumText {
+    font-size: 30px;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+.alertText {
+    font-weight: bold;
+    font-family: sans-serif;
+    color: red;
+    font-size: 10px;    
+}
+
+.buttonTitle {
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.buttonDetail {
+    font-style: normal;
+    font-size: 20px;
+}
