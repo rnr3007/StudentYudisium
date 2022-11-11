@@ -1,0 +1,47 @@
+.content{
+    width: 97%;
+    background-color: gainsboro;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.buttonContent {
+    width: max-content;
+    height: 60px;
+    margin: auto;
+}
+
+.largeButtonContent {
+    width: 97%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    background-color: white;
+}
+
+.formContent {
+    width: 97%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+
+.tableContent {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.paragraphContent {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
